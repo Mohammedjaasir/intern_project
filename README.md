@@ -1,4 +1,4 @@
-# intern_project
+
 # Predictive Analysis for Manufacturing Operations
 
 This project involves building a RESTful API for predicting machine downtime or production defects using manufacturing data. The API provides endpoints for uploading data, training a machine learning model, and making predictions.
